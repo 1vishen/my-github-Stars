@@ -1,0 +1,28 @@
+name: 'Update by stargazed'
+
+on:
+  schedule:
+    - cron: '30 0 * * *'  # Runs every day at 00:30 UTC
+  workflow_dispatch:      # Adds a "Run Now" button for manual testing
+
+jobs:
+  build:
+    name: 'stargazed update'
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Use GitHub Actions'
+        uses: actions/checkout@v4       # Updated from v2 to v4 (Standard for 2025)
+
+      - name: 'Use Node.js 20.x'        # Updated from 12.x (which is broken) to 20.x
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 'Install Package'
+        run: 'npm install --global stargazed'
+
+      - name: 'Update Repo'
+        env:
+          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
+        # I have replaced {{USERNAME}} and {{REPO}} with my details below:
+        run: 'stargazed --username 1vishen --token ${GITHUB_TOKEN} --repo my-github-Stars --message "stargazed update by GitHub Actions Workflow" --sort'
