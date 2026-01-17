@@ -16,11 +16,10 @@
 - [Clojure (1)](#clojure)
 - [Dart (14)](#dart)
 - [EJS (1)](#ejs)
-- [Fluent (1)](#fluent)
 - [Go (1)](#go)
 - [HTML (7)](#html)
 - [Java (27)](#java)
-- [JavaScript (37)](#javascript)
+- [JavaScript (38)](#javascript)
 - [Kotlin (68)](#kotlin)
 - [Less (1)](#less)
 - [Lua (1)](#lua)
@@ -52,10 +51,10 @@
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [winlator](https://github.com/brunodev85/winlator) | Android application for running Windows applications with Wine and Box86/Box64 | brunodev85 | 16190 |
+| 1 |  [winlator](https://github.com/brunodev85/winlator) | Android application for running Windows applications with Wine and Box86/Box64 | brunodev85 | 16195 |
 | 2 |  [Pluvia](https://github.com/oxters168/Pluvia) | Lightweight unofficial Steam client for Android | oxters168 | 1609 |
-| 3 |  [GameNative](https://github.com/utkarshdalal/GameNative) | Lightweight unofficial Steam client for Android | utkarshdalal | 2078 |
-| 4 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 134215 |
+| 3 |  [GameNative](https://github.com/utkarshdalal/GameNative) | Lightweight unofficial Steam client for Android | utkarshdalal | 2080 |
+| 4 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 134238 |
 | 5 |  [jpeg-quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth) | JPEG artifacts removal based on quantization coefficients. | ilyakurdyukov | 539 |
 | 6 |  [jpeg2png](https://github.com/ThioJoe/jpeg2png) | Silky smooth JPEG decoding - Forked with a few bug fixes | ThioJoe | 293 |
 
@@ -65,25 +64,25 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) | 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README | brunobritodev | 277 |
-| 2 |  [lively](https://github.com/rocksdanister/lively) | Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3. | rocksdanister | 17959 |
-| 3 |  [Sefirah](https://github.com/shrimqy/Sefirah) | Phone Link / KDE Connect alternative | shrimqy | 2059 |
+| 2 |  [lively](https://github.com/rocksdanister/lively) | Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3. | rocksdanister | 17961 |
+| 3 |  [Sefirah](https://github.com/shrimqy/Sefirah) | Phone Link / KDE Connect alternative | shrimqy | 2061 |
 | 4 |  [VpnHood](https://github.com/vpnhood/VpnHood) | Undetectable Fast Portable VPN | vpnhood | 1990 |
 | 5 |  [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) | Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11. | MicaForEveryone | 4951 |
-| 6 |  [DevToys](https://github.com/DevToys-app/DevToys) | A Swiss Army knife for developers. | DevToys-app | 30772 |
-| 7 |  [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | :mag: Quick file search &amp; app launcher for Windows with community-made plugins | Flow-Launcher | 13201 |
+| 6 |  [DevToys](https://github.com/DevToys-app/DevToys) | A Swiss Army knife for developers. | DevToys-app | 30781 |
+| 7 |  [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | :mag: Quick file search &amp; app launcher for Windows with community-made plugins | Flow-Launcher | 13207 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [ppsspp](https://github.com/hrydgard/ppsspp) | A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org. | hrydgard | 13204 |
-| 2 |  [cromite](https://github.com/uazo/cromite) | Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser! | uazo | 6397 |
-| 3 |  [materialgram](https://github.com/kukuruzka165/materialgram) | Telegram Desktop fork with material icons and some improvements | kukuruzka165 | 982 |
-| 4 |  [OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) | Document scanning app | Akylas | 1690 |
-| 5 |  [transmission](https://github.com/transmission/transmission) | Official Transmission BitTorrent client repository | transmission | 13919 |
+| 1 |  [ppsspp](https://github.com/hrydgard/ppsspp) | A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org. | hrydgard | 13206 |
+| 2 |  [cromite](https://github.com/uazo/cromite) | Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser! | uazo | 6404 |
+| 3 |  [materialgram](https://github.com/kukuruzka165/materialgram) | Telegram Desktop fork with material icons and some improvements | kukuruzka165 | 984 |
+| 4 |  [OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) | Document scanning app | Akylas | 1693 |
+| 5 |  [transmission](https://github.com/transmission/transmission) | Official Transmission BitTorrent client repository | transmission | 13923 |
 | 6 |  [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) | Quick Look extension for highlight source code files on macOS 10.15 and later. | sbarex | 3844 |
-| 7 |  [flameshot](https://github.com/flameshot-org/flameshot) | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: | flameshot-org | 28653 |
+| 7 |  [flameshot](https://github.com/flameshot-org/flameshot) | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: | flameshot-org | 28656 |
 | 8 |  [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) | Add custom effect to global system title bar, support win10 and win11. | Maplespe | 3950 |
 | 9 |  [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) | Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11 | Maplespe | 3683 |
 
@@ -99,9 +98,9 @@
 ## CSS
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Zen-Nebula](https://github.com/JustAdumbPrsn/Zen-Nebula) | A minimalist Glassmorphism based theme to elevate the UI of Zen browser | JustAdumbPrsn | 1232 |
-| 2 |  [gwfox](https://github.com/akkva/gwfox) | 果味🦊皮... | akkva | 759 |
-| 3 |  [devicon](https://github.com/devicons/devicon) | Set of icons representing programming languages, designing &amp; development tools | devicons | 11396 |
+| 1 |  [Zen-Nebula](https://github.com/JustAdumbPrsn/Zen-Nebula) | A minimalist Glassmorphism based theme to elevate the UI of Zen browser | JustAdumbPrsn | 1233 |
+| 2 |  [gwfox](https://github.com/akkva/gwfox) | 果味🦊皮... | akkva | 760 |
+| 3 |  [devicon](https://github.com/devicons/devicon) | Set of icons representing programming languages, designing &amp; development tools | devicons | 11398 |
 | 4 |  [firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar) | macOS Native-looking Translucent Tabbar for Firefox | zvuc | 202 |
 | 5 |  [ArcWTF](https://github.com/KiKaraage/ArcWTF) | A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨ | KiKaraage | 1723 |
 | 6 |  [FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) | The Firefox theme with too many options.. FF Ultima. | soulhotel | 1124 |
@@ -116,61 +115,54 @@
 ## Clojure
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [penpot](https://github.com/penpot/penpot) | Penpot: The open-source design tool for design and code collaboration | penpot | 43755 |
+| 1 |  [penpot](https://github.com/penpot/penpot) | Penpot: The open-source design tool for design and code collaboration | penpot | 43765 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Dart
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Discoverium](https://github.com/cygnusx-1-org/Discoverium) | Android app for discovering open source Android apps | cygnusx-1-org | 308 |
-| 2 |  [aves](https://github.com/deckerst/aves) | Aves is a gallery and metadata explorer app, built for Android with Flutter. | deckerst | 4300 |
+| 1 |  [Discoverium](https://github.com/cygnusx-1-org/Discoverium) | Android app for discovering open source Android apps | cygnusx-1-org | 311 |
+| 2 |  [aves](https://github.com/deckerst/aves) | Aves is a gallery and metadata explorer app, built for Android with Flutter. | deckerst | 4302 |
 | 3 |  [shots-studio](https://github.com/AnsahMohammad/shots-studio) | AI Powered Screenshot manager for Android | AnsahMohammad | 564 |
 | 4 |  [logger](https://github.com/Sanmeet007/logger) | Logger is a Flutter-based Android app that enables you to view and export call logs in CSV or JSON format and perform lightweight on-device analysis. | Sanmeet007 | 158 |
-| 5 |  [Obtainium](https://github.com/ImranR98/Obtainium) | Get Android app updates straight from the source. | ImranR98 | 14529 |
+| 5 |  [Obtainium](https://github.com/ImranR98/Obtainium) | Get Android app updates straight from the source. | ImranR98 | 14537 |
 | 6 |  [WeatherMaster](https://github.com/PranshulGG/WeatherMaster) | A Weather app for android 🌦🌞☔ | PranshulGG | 2404 |
-| 7 |  [chrono](https://github.com/vicolo-dev/chrono) | A modern and powerful clock, alarms, timer and stopwatch app for Android! | vicolo-dev | 1559 |
-| 8 |  [spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source music streaming app! Available for both desktop &amp; mobile! | KRTirtho | 43688 |
+| 7 |  [chrono](https://github.com/vicolo-dev/chrono) | A modern and powerful clock, alarms, timer and stopwatch app for Android! | vicolo-dev | 1561 |
+| 8 |  [spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source music streaming app! Available for both desktop &amp; mobile! | KRTirtho | 43697 |
 | 9 |  [shakepin](https://github.com/foamify/shakepin) | Drag and drop over apps open source alternative | foamify | 391 |
-| 10 |  [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. | AppFlowy-IO | 67556 |
-| 11 |  [CopyCat-Clipboard](https://github.com/raj457036/CopyCat-Clipboard) | Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessible and synced. | raj457036 | 444 |
-| 12 |  [ente](https://github.com/ente-io/ente) | 🔥 End-to-end encrypted cloud for everything. | ente-io | 23924 |
-| 13 |  [localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | localsend | 73348 |
-| 14 |  [namida](https://github.com/namidaco/namida) | A Beautiful and Feature-rich Music &amp; Video Player with Youtube Support, Built in Flutter | namidaco | 4754 |
+| 10 |  [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. | AppFlowy-IO | 67568 |
+| 11 |  [CopyCat-Clipboard](https://github.com/raj457036/CopyCat-Clipboard) | Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessible and synced. | raj457036 | 445 |
+| 12 |  [ente](https://github.com/ente-io/ente) | 🔥 End-to-end encrypted cloud for everything. | ente-io | 23931 |
+| 13 |  [localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | localsend | 73381 |
+| 14 |  [namida](https://github.com/namidaco/namida) | A Beautiful and Feature-rich Music &amp; Video Player with Youtube Support, Built in Flutter | namidaco | 4765 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## EJS
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [reference](https://github.com/Fechin/reference) | ⭕ Share quick reference cheat sheet for developers. | Fechin | 9878 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Fluent
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [desktop](https://github.com/zen-browser/desktop) | Welcome to a calmer internet | zen-browser | 39547 |
+| 1 |  [reference](https://github.com/Fechin/reference) | ⭕ Share quick reference cheat sheet for developers. | Fechin | 9883 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) | A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode. | ghuntley | 4852 |
+| 1 |  [how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) | A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode. | ghuntley | 4862 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## HTML
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! | ossu | 200366 |
-| 2 |  [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) | Modern JavaScript Tutorial | javascript-tutorial | 25068 |
+| 1 |  [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! | ossu | 200380 |
+| 2 |  [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) | Modern JavaScript Tutorial | javascript-tutorial | 25069 |
 | 3 |  [ImageOptim](https://github.com/ImageOptim/ImageOptim) | GUI image optimizer for Mac | ImageOptim | 9697 |
 | 4 |  [AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) | AdGuard Mini for macOS | AdguardTeam | 1170 |
-| 5 |  [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | ripienaar | 117335 |
+| 5 |  [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | ripienaar | 117347 |
 | 6 |  [weather-icons](https://github.com/basmilius/weather-icons) | Free to use animated weather icons. | basmilius | 1396 |
-| 7 |  [html-css-course](https://github.com/SuperSimpleDev/html-css-course) | Watch the course: https://youtu.be/G3e-cpL7ofc | SuperSimpleDev | 1883 |
+| 7 |  [html-css-course](https://github.com/SuperSimpleDev/html-css-course) | Watch the course: https://youtu.be/G3e-cpL7ofc | SuperSimpleDev | 1884 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -178,163 +170,164 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [APK-Explorer-Editor](https://github.com/apk-editor/APK-Explorer-Editor) | Source code of APK Explorer &amp; Editor (AEE),  an open-source tool to explore the contents of an installed APK! | apk-editor | 1098 |
-| 2 |  [AppManager](https://github.com/MuntashirAkon/AppManager) | A full-featured package manager and viewer for Android | MuntashirAkon | 7192 |
-| 3 |  [freeplane](https://github.com/freeplane/freeplane) | Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way. | freeplane | 3862 |
-| 4 |  [Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | A Reddit client for Android | Docile-Alligator | 5136 |
-| 5 |  [Tubular](https://github.com/polymorphicshade/Tubular) | A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike. | polymorphicshade | 2772 |
-| 6 |  [AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) | App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android | AbdurazaaqMohammed | 3583 |
+| 2 |  [AppManager](https://github.com/MuntashirAkon/AppManager) | A full-featured package manager and viewer for Android | MuntashirAkon | 7196 |
+| 3 |  [freeplane](https://github.com/freeplane/freeplane) | Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way. | freeplane | 3863 |
+| 4 |  [Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | A Reddit client for Android | Docile-Alligator | 5137 |
+| 5 |  [Tubular](https://github.com/polymorphicshade/Tubular) | A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike. | polymorphicshade | 2773 |
+| 6 |  [AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) | App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android | AbdurazaaqMohammed | 3589 |
 | 7 |  [shappky](https://github.com/YasserNull/shappky) | A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions. | YasserNull | 329 |
-| 8 |  [ScrcpyForAndroid](https://github.com/zwc456baby/ScrcpyForAndroid) | scrcpy for android | zwc456baby | 558 |
+| 8 |  [ScrcpyForAndroid](https://github.com/zwc456baby/ScrcpyForAndroid) | scrcpy for android | zwc456baby | 559 |
 | 9 |  [dotenv-java](https://github.com/cdimascio/dotenv-java) | 🗝️ Dotenv is a no-dep, pure Java module that loads environment variables from a .env file | cdimascio | 638 |
-| 10 |  [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | TheAlgorithms | 64743 |
+| 10 |  [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | TheAlgorithms | 64744 |
 | 11 |  [ImageCraft-Android](https://github.com/YangDai2003/ImageCraft-Android) | Effortlessly edit images with batch compression, scaling, cropping, rotation, and format conversion. Convert PDFs to images, create PDFs from images, package images, and more. Explore EXIF data, preview material themes, and pick colors from images. | YangDai2003 | 74 |
-| 12 |  [markor](https://github.com/gsantner/markor) | Text editor - Notes &amp; ToDo (for Android) - Markdown, todo.txt, plaintext, math, .. | gsantner | 5041 |
-| 13 |  [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) | Hide your private files and apps with a single click. | deltazefiro | 2520 |
-| 14 |  [HeliBoard](https://github.com/Helium314/HeliBoard) | Customizable and privacy-conscious open-source keyboard | Helium314 | 4477 |
+| 12 |  [markor](https://github.com/gsantner/markor) | Text editor - Notes &amp; ToDo (for Android) - Markdown, todo.txt, plaintext, math, .. | gsantner | 5042 |
+| 13 |  [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) | Hide your private files and apps with a single click. | deltazefiro | 2590 |
+| 14 |  [HeliBoard](https://github.com/Helium314/HeliBoard) | Customizable and privacy-conscious open-source keyboard | Helium314 | 4480 |
 | 15 |  [doodle-android](https://github.com/patzly/doodle-android) | Colorful live wallpapers with auto dark mode and power-efficient animations | patzly | 804 |
 | 16 |  [save-on-device](https://github.com/lmj0011/save-on-device) | Android app that allows you to save a file shared from another app to your device. | lmj0011 | 290 |
 | 17 |  [Clock](https://github.com/BlackyHawky/Clock) | Customizable, privacy‑first, open-source clock app inspired by AOSP Clock | BlackyHawky | 786 |
 | 18 |  [URLCheck](https://github.com/TrianguloY/URLCheck) | Android app by TrianguloY: URLCheck | TrianguloY | 1748 |
 | 19 |  [KeyboardGPT](https://github.com/Mino260806/KeyboardGPT) | LSPosed Module to integrate Generative AI like ChatGPT in keyboard. | Mino260806 | 668 |
 | 20 |  [Thanox](https://github.com/Tornaco/Thanox) | I am thanos! 😈 👌 | Tornaco | 2884 |
-| 21 |  [tracker-control-android](https://github.com/TrackerControl/tracker-control-android) | TrackerControl Android: monitor and control trackers and ads. | TrackerControl | 2344 |
+| 21 |  [tracker-control-android](https://github.com/TrackerControl/tracker-control-android) | TrackerControl Android: monitor and control trackers and ads. | TrackerControl | 2346 |
 | 22 |  [NetGuard](https://github.com/M66B/NetGuard) | A simple way to block access to the internet per app | M66B | 3386 |
 | 23 |  [clip_share_client](https://github.com/thevindu-w/clip_share_client) | Clip Share Android client. Share clipboard between devices. Share files and screenshots securely. | thevindu-w | 97 |
-| 24 |  [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | TeamNewPipe | 36319 |
-| 25 |  [lawnchair](https://github.com/LawnchairLauncher/lawnchair) | No clever tagline needed. | LawnchairLauncher | 11847 |
+| 24 |  [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | TeamNewPipe | 36325 |
+| 25 |  [lawnchair](https://github.com/LawnchairLauncher/lawnchair) | No clever tagline needed. | LawnchairLauncher | 11850 |
 | 26 |  [syncthing-android](https://github.com/syncthing/syncthing-android) | Wrapper of syncthing for Android. | syncthing | 4104 |
-| 27 |  [OpenRefine](https://github.com/OpenRefine/OpenRefine) | OpenRefine is a free, open source power tool for working with messy data and improving it | OpenRefine | 11680 |
+| 27 |  [OpenRefine](https://github.com/OpenRefine/OpenRefine) | OpenRefine is a free, open source power tool for working with messy data and improving it | OpenRefine | 11681 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [anime](https://github.com/juliangarnier/anime) | JavaScript animation engine | juliangarnier | 65894 |
+| 1 |  [anime](https://github.com/juliangarnier/anime) | JavaScript animation engine | juliangarnier | 65895 |
 | 2 |  [stargazed](https://github.com/abhijithvijayan/stargazed) | 📋 Creating your own Awesome List of GitHub stars! | abhijithvijayan | 499 |
-| 3 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 60118 |
-| 4 |  [bentopdf](https://github.com/alam00000/bentopdf) | A Privacy First PDF Toolkit | alam00000 | 10138 |
-| 5 |  [MaterialYouNewTab](https://github.com/prem-k-r/MaterialYouNewTab) | A Simple New Tab (browser&#39;s home page) inspired with Google&#39;s &#39;Material You&#39; design | prem-k-r | 405 |
+| 3 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 60116 |
+| 4 |  [bentopdf](https://github.com/alam00000/bentopdf) | A Privacy First PDF Toolkit | alam00000 | 10158 |
+| 5 |  [MaterialYouNewTab](https://github.com/prem-k-r/MaterialYouNewTab) | A Simple New Tab (browser&#39;s home page) inspired with Google&#39;s &#39;Material You&#39; design | prem-k-r | 408 |
 | 6 |  [leetcodewrapped](https://github.com/collinboler/leetcodewrapped) | See your leetcode year in review! | collinboler | 21 |
-| 7 |  [server-survival](https://github.com/pshenok/server-survival) | Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. | pshenok | 4141 |
-| 8 |  [Sine](https://github.com/CosmoCreeper/Sine) | The ultimate theme manager for Firefox-based browsers. | CosmoCreeper | 969 |
+| 7 |  [server-survival](https://github.com/pshenok/server-survival) | Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. | pshenok | 4146 |
+| 8 |  [Sine](https://github.com/CosmoCreeper/Sine) | The ultimate theme manager for Firefox-based browsers. | CosmoCreeper | 970 |
 | 9 |  [dillinger](https://github.com/joemccann/dillinger) | The last Markdown editor, ever. | joemccann | 8201 |
-| 10 |  [stylus](https://github.com/openstyles/stylus) | Stylus - Userstyles Manager | openstyles | 6363 |
-| 11 |  [user.js](https://github.com/arkenfox/user.js) | Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening | arkenfox | 12077 |
-| 12 |  [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | anuraghazra | 77973 |
-| 13 |  [Betterfox](https://github.com/yokoffing/Betterfox) | Firefox user.js for optimal privacy and security. Your favorite browser, but better. | yokoffing | 9885 |
+| 10 |  [stylus](https://github.com/openstyles/stylus) | Stylus - Userstyles Manager | openstyles | 6365 |
+| 11 |  [user.js](https://github.com/arkenfox/user.js) | Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening | arkenfox | 12079 |
+| 12 |  [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | anuraghazra | 77983 |
+| 13 |  [Betterfox](https://github.com/yokoffing/Betterfox) | Firefox user.js for optimal privacy and security. Your favorite browser, but better. | yokoffing | 9884 |
 | 14 |  [markdown-pdf](https://github.com/alanshaw/markdown-pdf) | :page_facing_up: Markdown to PDF converter | alanshaw | 2836 |
-| 15 |  [uBOL-home](https://github.com/uBlockOrigin/uBOL-home) | uBO Lite home (MV3) | uBlockOrigin | 3088 |
-| 16 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 60963 |
-| 17 |  [shields](https://github.com/badges/shields) | Concise, consistent, and legible badges in SVG and raster format | badges | 25925 |
-| 18 |  [pomme-page](https://github.com/kikiklang/pomme-page) | Big buttons with easy click startpage for a browser. | kikiklang | 217 |
-| 19 |  [startup-page](https://github.com/timothypholmes/startup-page) | A custom startup page for your browser. | timothypholmes | 518 |
-| 20 |  [FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) | A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community. | FirefoxCSS-Store | 948 |
-| 21 |  [github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) | 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫 | VishwaGauravIn | 912 |
-| 22 |  [numi](https://github.com/nikolaeu/numi) | Beautiful calculator app for macOS, Linux &amp; Windows | nikolaeu | 6320 |
-| 23 |  [Boop](https://github.com/IvanMathy/Boop) | A scriptable scratchpad for developers. In slow yet steady progress. | IvanMathy | 4087 |
-| 24 |  [openmtp](https://github.com/ganeshrvel/openmtp) | OpenMTP  - Advanced Android File Transfer Application for macOS | ganeshrvel | 6040 |
-| 25 |  [node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | nodejs | 115235 |
-| 26 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 97714 |
-| 27 |  [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) | Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. | divamgupta | 13495 |
-| 28 |  [gptrpg](https://github.com/dzoba/gptrpg) | A demo of an GPT-based agent existing in an RPG-like environment | dzoba | 990 |
-| 29 |  [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | Coding articles to level up your development skills | Chalarangelo | 126344 |
-| 30 |  [learnGitBranching](https://github.com/pcottle/learnGitBranching) | An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git! | pcottle | 33028 |
-| 31 |  [overleaf](https://github.com/overleaf/overleaf) | A web-based collaborative LaTeX editor | overleaf | 17158 |
-| 32 |  [sharedrop](https://github.com/ShareDropio/sharedrop) | Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop | ShareDropio | 10698 |
-| 33 |  [PairDrop](https://github.com/schlagmichdoch/PairDrop) | PairDrop: Transfer Files Cross-Platform. No Setup, No Signup. | schlagmichdoch | 9621 |
-| 34 |  [snapdrop](https://github.com/SnapDrop/snapdrop) | A Progressive Web App for local file sharing | SnapDrop | 19667 |
-| 35 |  [drawio-desktop](https://github.com/jgraph/drawio-desktop) | Official electron build of draw.io | jgraph | 58996 |
-| 36 |  [nightTab](https://github.com/zombieFox/nightTab) | A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab. | zombieFox | 1996 |
-| 37 |  [GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) | A Google Apps Script for syncing ICS/ICAL files faster than the current Google Calendar speed | derekantrican | 1830 |
+| 15 |  [uBOL-home](https://github.com/uBlockOrigin/uBOL-home) | uBO Lite home (MV3) | uBlockOrigin | 3090 |
+| 16 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 60982 |
+| 17 |  [desktop](https://github.com/zen-browser/desktop) | Welcome to a calmer internet | zen-browser | 39554 |
+| 18 |  [shields](https://github.com/badges/shields) | Concise, consistent, and legible badges in SVG and raster format | badges | 25927 |
+| 19 |  [pomme-page](https://github.com/kikiklang/pomme-page) | Big buttons with easy click startpage for a browser. | kikiklang | 217 |
+| 20 |  [startup-page](https://github.com/timothypholmes/startup-page) | A custom startup page for your browser. | timothypholmes | 518 |
+| 21 |  [FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) | A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community. | FirefoxCSS-Store | 948 |
+| 22 |  [github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) | 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫 | VishwaGauravIn | 912 |
+| 23 |  [numi](https://github.com/nikolaeu/numi) | Beautiful calculator app for macOS, Linux &amp; Windows | nikolaeu | 6320 |
+| 24 |  [Boop](https://github.com/IvanMathy/Boop) | A scriptable scratchpad for developers. In slow yet steady progress. | IvanMathy | 4088 |
+| 25 |  [openmtp](https://github.com/ganeshrvel/openmtp) | OpenMTP  - Advanced Android File Transfer Application for macOS | ganeshrvel | 6042 |
+| 26 |  [node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | nodejs | 115241 |
+| 27 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 97741 |
+| 28 |  [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) | Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. | divamgupta | 13496 |
+| 29 |  [gptrpg](https://github.com/dzoba/gptrpg) | A demo of an GPT-based agent existing in an RPG-like environment | dzoba | 990 |
+| 30 |  [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | Coding articles to level up your development skills | Chalarangelo | 126353 |
+| 31 |  [learnGitBranching](https://github.com/pcottle/learnGitBranching) | An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git! | pcottle | 33030 |
+| 32 |  [overleaf](https://github.com/overleaf/overleaf) | A web-based collaborative LaTeX editor | overleaf | 17159 |
+| 33 |  [sharedrop](https://github.com/ShareDropio/sharedrop) | Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop | ShareDropio | 10698 |
+| 34 |  [PairDrop](https://github.com/schlagmichdoch/PairDrop) | PairDrop: Transfer Files Cross-Platform. No Setup, No Signup. | schlagmichdoch | 9622 |
+| 35 |  [snapdrop](https://github.com/SnapDrop/snapdrop) | A Progressive Web App for local file sharing | SnapDrop | 19667 |
+| 36 |  [drawio-desktop](https://github.com/jgraph/drawio-desktop) | Official electron build of draw.io | jgraph | 59002 |
+| 37 |  [nightTab](https://github.com/zombieFox/nightTab) | A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab. | zombieFox | 1997 |
+| 38 |  [GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) | A Google Apps Script for syncing ICS/ICAL files faster than the current Google Calendar speed | derekantrican | 1830 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Kotlin
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [mpvEx](https://github.com/marlboro-advance/mpvEx) | A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt | marlboro-advance | 1024 |
-| 2 |  [traffic-light](https://github.com/leekleak/traffic-light) | A persistent network speed tracker in your status bar | leekleak | 265 |
-| 3 |  [Github-Store](https://github.com/rainxchzed/Github-Store) | A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android &amp; Desktop (Linux, MacOS, Windows). | rainxchzed | 3994 |
-| 4 |  [essentials](https://github.com/sameerasw/essentials) | Essential tools, mods and workarounds for Pixels and other Androids | sameerasw | 635 |
+| 1 |  [mpvEx](https://github.com/marlboro-advance/mpvEx) | A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt | marlboro-advance | 1026 |
+| 2 |  [traffic-light](https://github.com/leekleak/traffic-light) | A persistent network speed tracker in your status bar | leekleak | 266 |
+| 3 |  [Github-Store](https://github.com/rainxchzed/Github-Store) | A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android &amp; Desktop (Linux, MacOS, Windows). | rainxchzed | 4074 |
+| 4 |  [essentials](https://github.com/sameerasw/essentials) | Essential tools, mods and workarounds for Pixels and other Androids | sameerasw | 638 |
 | 5 |  [exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) | εxodus Android application | Exodus-Privacy | 924 |
-| 6 |  [librepods](https://github.com/kavishdevar/librepods) | AirPods liberated from Apple&#39;s ecosystem. | kavishdevar | 24485 |
-| 7 |  [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) | Lightweight no root, no vpn firewall solution powered by Shizuku | AhmetCanArslan | 428 |
+| 6 |  [librepods](https://github.com/kavishdevar/librepods) | AirPods liberated from Apple&#39;s ecosystem. | kavishdevar | 24513 |
+| 7 |  [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) | Lightweight no root, no vpn firewall solution powered by Shizuku | AhmetCanArslan | 429 |
 | 8 |  [YABA](https://github.com/Subfly/YABA) | Yet Another Bookmark App | Subfly | 195 |
 | 9 |  [Nobook](https://github.com/ycngmn/Nobook) | Ad-free facebook lite for Android. | ycngmn | 949 |
 | 10 |  [LiveMedia](https://github.com/RossSihovsk/LiveMedia) | LiveMedia uses promoted ongoing notifications to create a &#34;Live Activity&#34; effect, bringing controls and track information directly to the screen. | RossSihovsk | 138 |
 | 11 |  [Toolkit-Tiles](https://github.com/WSTxda/Toolkit-Tiles) | A collection of lightweight tools available as Android Quick Settings tiles. | WSTxda | 250 |
-| 12 |  [Phone](https://github.com/FossifyOrg/Phone) | A handy phone call manager with phonebook, number blocking and multi-SIM support | FossifyOrg | 1050 |
-| 13 |  [LTECleanerFOSS](https://github.com/MDP43140/LTECleanerFOSS) | The last Android cleaner you&#39;ll ever need! | MDP43140 | 281 |
+| 12 |  [Phone](https://github.com/FossifyOrg/Phone) | A handy phone call manager with phonebook, number blocking and multi-SIM support | FossifyOrg | 1051 |
+| 13 |  [LTECleanerFOSS](https://github.com/MDP43140/LTECleanerFOSS) | The last Android cleaner you&#39;ll ever need! | MDP43140 | 282 |
 | 14 |  [NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) | One-tap network switching for Android | aunchagaonkar | 229 |
 | 15 |  [coreply](https://github.com/coreply/coreply) | Finishes your sentences while typing in a messaging app. | coreply | 389 |
-| 16 |  [Metrolist](https://github.com/mostafaalagamy/Metrolist) | YouTube Music client for Android | mostafaalagamy | 5841 |
-| 17 |  [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) | More Expressive InstallerX ! | wxxsfxyzm | 3189 |
-| 18 |  [DarQ](https://github.com/KieronQuinn/DarQ) | DarQ provides a per-app selectable force dark option for Android 10 and above | KieronQuinn | 1547 |
-| 19 |  [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) | Simple-ish app using Shizuku to install APKs on-device with advanced options | zacharee | 2459 |
+| 16 |  [Metrolist](https://github.com/mostafaalagamy/Metrolist) | YouTube Music client for Android | mostafaalagamy | 5850 |
+| 17 |  [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) | More Expressive InstallerX ! | wxxsfxyzm | 3194 |
+| 18 |  [DarQ](https://github.com/KieronQuinn/DarQ) | DarQ provides a per-app selectable force dark option for Android 10 and above | KieronQuinn | 1548 |
+| 19 |  [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) | Simple-ish app using Shizuku to install APKs on-device with advanced options | zacharee | 2460 |
 | 20 |  [delta](https://github.com/supershadoe/delta) | Advanced hotspot settings for Pixel-like devices | supershadoe | 448 |
-| 21 |  [gpt_mobile](https://github.com/Taewan-P/gpt_mobile) | Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 &amp; Compose. | Taewan-P | 953 |
-| 22 |  [airsync-android](https://github.com/sameerasw/airsync-android) | Android app for AirSync 2.0  - Bring the forbidden mac continuity to Android | sameerasw | 184 |
+| 21 |  [gpt_mobile](https://github.com/Taewan-P/gpt_mobile) | Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 &amp; Compose. | Taewan-P | 954 |
+| 22 |  [airsync-android](https://github.com/sameerasw/airsync-android) | Android app for AirSync 2.0  - Bring the forbidden mac continuity to Android | sameerasw | 185 |
 | 23 |  [TorrentSearch](https://github.com/prajwalch/TorrentSearch) | A Material 3 designed Android app for searching and downloading torrents from multiple providers. | prajwalch | 652 |
-| 24 |  [AppLock](https://github.com/PranavPurwar/AppLock) | Powerful Privacy tool to secure your sensitive apps. | PranavPurwar | 530 |
-| 25 |  [launchpad-search](https://github.com/jaxparrow07/launchpad-search) | A spotlight search alternative for android, but better ( extensible ) | jaxparrow07 | 250 |
+| 24 |  [AppLock](https://github.com/PranavPurwar/AppLock) | Powerful Privacy tool to secure your sensitive apps. | PranavPurwar | 531 |
+| 25 |  [launchpad-search](https://github.com/jaxparrow07/launchpad-search) | A spotlight search alternative for android, but better ( extensible ) | jaxparrow07 | 251 |
 | 26 |  [WhatsAppCleaner](https://github.com/VishnuSanal/WhatsAppCleaner) | Cleaner for WhatsApp - Clean WhatsApp&#39;s Redundant Media Files from Storage | VishnuSanal | 285 |
-| 27 |  [DNSNet](https://github.com/t895/DNSNet) | DNS filter for Android | t895 | 695 |
+| 27 |  [DNSNet](https://github.com/t895/DNSNet) | DNS filter for Android | t895 | 697 |
 | 28 |  [rikkahub](https://github.com/rikkahub/rikkahub) | RikkaHub is an Android APP that supports for multiple LLM providers. | rikkahub | 2909 |
-| 29 |  [ytdlnis](https://github.com/deniscerri/ytdlnis) | Full-featured audio/video downloader for Android using yt-dlp | deniscerri | 7313 |
-| 30 |  [mpvKt](https://github.com/abdallahmehiz/mpvKt) | A media player for android, based on mpv-android and built with Jetpack Compose. | abdallahmehiz | 1289 |
+| 29 |  [ytdlnis](https://github.com/deniscerri/ytdlnis) | Full-featured audio/video downloader for Android using yt-dlp | deniscerri | 7323 |
+| 30 |  [mpvKt](https://github.com/abdallahmehiz/mpvKt) | A media player for android, based on mpv-android and built with Jetpack Compose. | abdallahmehiz | 1290 |
 | 31 |  [Caffeinate](https://github.com/abdalmoniem/Caffeinate) | Caffeinate is an App that helps android developers Keep their phone&#39;s screen On while developing | abdalmoniem | 93 |
-| 32 |  [client](https://github.com/Droid-ify/client) | Clutterfree F-Droid client | Droid-ify | 6183 |
+| 32 |  [client](https://github.com/Droid-ify/client) | Clutterfree F-Droid client | Droid-ify | 6187 |
 | 33 |  [MethodCall](https://github.com/coleblvck/MethodCall) | Launch custom actions, triggered by phone calls. | coleblvck | 75 |
-| 34 |  [anemo-aer](https://github.com/nain-F49FF806/anemo-aer) | Private (secondary) storage for Android | nain-F49FF806 | 255 |
+| 34 |  [anemo-aer](https://github.com/nain-F49FF806/anemo-aer) | Private (secondary) storage for Android | nain-F49FF806 | 254 |
 | 35 |  [KeyMapper](https://github.com/keymapperorg/KeyMapper) | An Android app to remap the buttons on your devices | keymapperorg | 2060 |
-| 36 |  [florisboard](https://github.com/florisboard/florisboard) | An open-source keyboard for Android which respects your privacy. Currently in beta. | florisboard | 7905 |
-| 37 |  [breezy-weather](https://github.com/breezy-weather/breezy-weather) | A feature-rich weather app with good visualizations and more than 50 sources. | breezy-weather | 9056 |
-| 38 |  [SpamBlocker](https://github.com/aj3423/SpamBlocker) | Android Call/SMS blocker. | aj3423 | 1210 |
+| 36 |  [florisboard](https://github.com/florisboard/florisboard) | An open-source keyboard for Android which respects your privacy. Currently in beta. | florisboard | 7908 |
+| 37 |  [breezy-weather](https://github.com/breezy-weather/breezy-weather) | A feature-rich weather app with good visualizations and more than 50 sources. | breezy-weather | 9059 |
+| 38 |  [SpamBlocker](https://github.com/aj3423/SpamBlocker) | Android Call/SMS blocker. | aj3423 | 1211 |
 | 39 |  [SuperImage](https://github.com/Lucchetto/SuperImage) | Sharpen your low-resolution pictures with the power of AI upscaling | Lucchetto | 1582 |
-| 40 |  [ffshare](https://github.com/caydey/ffshare) | An android app to compress image, video and audio files through ffmpeg before sharing them | caydey | 985 |
+| 40 |  [ffshare](https://github.com/caydey/ffshare) | An android app to compress image, video and audio files through ffmpeg before sharing them | caydey | 986 |
 | 41 |  [tidy](https://github.com/slavabarkov/tidy) | Offline semantic Text-to-Image and Image-to-Image search on Android powered by quantized state-of-the-art vision-language pretrained CLIP model and ONNX Runtime inference engine | slavabarkov | 530 |
 | 42 |  [LinkSheet](https://github.com/LinkSheet/LinkSheet) | Link handling for modern Android | LinkSheet | 1826 |
-| 43 |  [Smartspacer](https://github.com/KieronQuinn/Smartspacer) | Smartspacer is a customisable widget for Android, but with a difference: It can upgrade the built in At a Glance on Pixels - without root! | KieronQuinn | 3118 |
+| 43 |  [Smartspacer](https://github.com/KieronQuinn/Smartspacer) | Smartspacer is a customisable widget for Android, but with a difference: It can upgrade the built in At a Glance on Pixels - without root! | KieronQuinn | 3120 |
 | 44 |  [Positional](https://github.com/Hamza417/Positional) | An elegant and colorful location information app for Android with Compass, Clock, Level, Sun, Moon, Trail Marker and many other features. | Hamza417 | 266 |
 | 45 |  [VolumeLockr](https://github.com/jonathanklee/VolumeLockr) | Android volume locker | jonathanklee | 97 |
-| 46 |  [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) | Quick settings tile to switch active private DNS server | karasevm | 867 |
+| 46 |  [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) | Quick settings tile to switch active private DNS server | karasevm | 868 |
 | 47 |  [SwitchAI](https://github.com/WSTxda/SwitchAI) | Easily select and manage your preferred AI digital assistants on Android. | WSTxda | 1181 |
 | 48 |  [flip_2_dnd](https://github.com/robinsrk/flip_2_dnd) | Flip 2 DND is a modern Android application that intelligently manages your Do Not Disturb (DND) mode based on your phone&#39;s orientation. Just flip your phone face down to activate DND and face up to turn it off—it&#39;s that simple! | robinsrk | 66 |
 | 49 |  [SongSync](https://github.com/Lambada10/SongSync) | Android app to download lyrics for songs in your music library. | Lambada10 | 1117 |
 | 50 |  [permission-pilot](https://github.com/d4rken-org/permission-pilot) | Android permission explorer 🧑‍✈️ | d4rken-org | 538 |
-| 51 |  [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | Best Material You Design music player for Android | RetroMusicPlayer | 4907 |
-| 52 |  [jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) | Android TV Client for Jellyfin | jellyfin | 3992 |
+| 51 |  [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | Best Material You Design music player for Android | RetroMusicPlayer | 4906 |
+| 52 |  [jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) | Android TV Client for Jellyfin | jellyfin | 3998 |
 | 53 |  [yetCalc](https://github.com/Yet-Zio/yetCalc) | Yet another calculator designed and developed for Android | Yet-Zio | 364 |
 | 54 |  [ScreenshotTile](https://github.com/cvzi/ScreenshotTile) | 📲 Screenshot Tile for Android without Root | cvzi | 332 |
-| 55 |  [RiMusic](https://github.com/fast4x/RiMusic) | RiMusic is a multilingual and multiplatform application for streaming music | fast4x | 3816 |
+| 55 |  [RiMusic](https://github.com/fast4x/RiMusic) | RiMusic is a multilingual and multiplatform application for streaming music | fast4x | 3814 |
 | 56 |  [notification-listener-android](https://github.com/Alfio010/notification-listener-android) | This app saves your Android device`s notifications and allows you not to miss notifications that are accidentally deleted or that are deleted by the apps themselves. Feel free to recommend new features. | Alfio010 | 172 |
 | 57 |  [geoshare](https://github.com/jakubvalenta/geoshare) | An Android app to open map links in other map apps and copy coordinates | jakubvalenta | 195 |
 | 58 |  [WikiReader](https://github.com/nsh07/WikiReader) | Android app for reading Wikipedia pages distraction-free | nsh07 | 653 |
-| 59 |  [Canta](https://github.com/samolego/Canta) | Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required. | samolego | 3835 |
-| 60 |  [PipePipe](https://github.com/InfinityLoop1308/PipePipe) | An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely. | InfinityLoop1308 | 4359 |
+| 59 |  [Canta](https://github.com/samolego/Canta) | Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required. | samolego | 3841 |
+| 60 |  [PipePipe](https://github.com/InfinityLoop1308/PipePipe) | An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely. | InfinityLoop1308 | 4363 |
 | 61 |  [Redomi](https://github.com/acszo/Redomi) | 🎶 Song.link client to open songs from different platforms to your favourite one | acszo | 521 |
 | 62 |  [sharepaste.oo](https://github.com/nain-F49FF806/sharepaste.oo) | Share pastes privately, with end to end encryption. | nain-F49FF806 | 91 |
 | 63 |  [lawnicons](https://github.com/LawnchairLauncher/lawnicons) | Monochrome outlined brand icons for Android launchers. | LawnchairLauncher | 1856 |
-| 64 |  [OuterTune](https://github.com/OuterTune/OuterTune) | A Material 3 Music Player for Android with local file &amp; YouTube Music support. Forked from InnerTune | OuterTune | 4410 |
-| 65 |  [orbot-android](https://github.com/guardianproject/orbot-android) | The Github home of Orbot: Tor on Android (Also available on gitlab!) | guardianproject | 2944 |
+| 64 |  [OuterTune](https://github.com/OuterTune/OuterTune) | A Material 3 Music Player for Android with local file &amp; YouTube Music support. Forked from InnerTune | OuterTune | 4414 |
+| 65 |  [orbot-android](https://github.com/guardianproject/orbot-android) | The Github home of Orbot: Tor on Android (Also available on gitlab!) | guardianproject | 2945 |
 | 66 |  [thunderbird-android](https://github.com/thunderbird/thunderbird-android) | Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail) | thunderbird | 13025 |
 | 67 |  [ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid) | App to bypass censorship on Android | dovecoteescapee | 4950 |
-| 68 |  [ShizuTools](https://github.com/legendsayantan/ShizuTools) | Contains many tools to control android system via shizuku. | legendsayantan | 1965 |
+| 68 |  [ShizuTools](https://github.com/legendsayantan/ShizuTools) | Contains many tools to control android system via shizuku. | legendsayantan | 1966 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Less
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [RemixIcon](https://github.com/Remix-Design/RemixIcon) | Open source neutral style icon system | Remix-Design | 7837 |
+| 1 |  [RemixIcon](https://github.com/Remix-Design/RemixIcon) | Open source neutral style icon system | Remix-Design | 7838 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Lua
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | Main game repository for Beyond All Reason. | beyond-all-reason | 2707 |
+| 1 |  [Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | Main game repository for Beyond All Reason. | beyond-all-reason | 2708 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -342,73 +335,73 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) | 🤝 Awesome List of GIFs &amp; avatars to use in GitHub. | Anmol-Baranwal | 1748 |
-| 2 |  [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) | :octocat: Improve your README.md profile with these amazing badges. | alexandresanlim | 12758 |
-| 3 |  [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | codecrafters-io | 457300 |
+| 2 |  [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) | :octocat: Improve your README.md profile with these amazing badges. | alexandresanlim | 12760 |
+| 3 |  [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | codecrafters-io | 457512 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Objective-C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [LuLu](https://github.com/objective-see/LuLu) | LuLu is the free open-source macOS firewall | objective-see | 11808 |
+| 1 |  [LuLu](https://github.com/objective-see/LuLu) | LuLu is the free open-source macOS firewall | objective-see | 11813 |
 | 2 |  [syncthing-macos](https://github.com/syncthing/syncthing-macos) | Official frugal and native macOS Syncthing application bundle | syncthing | 3416 |
-| 3 |  [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | Prevents your Mac from going to sleep. | newmarcel | 6167 |
-| 4 |  [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! | noah-nuebling | 8904 |
+| 3 |  [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | Prevents your Mac from going to sleep. | newmarcel | 6172 |
+| 4 |  [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! | noah-nuebling | 8907 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Objective-C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [LiveWallpaperMacOS](https://github.com/thusvill/LiveWallpaperMacOS) | This is a Opensource Live wallpaper solution for MacOS | thusvill | 605 |
+| 1 |  [LiveWallpaperMacOS](https://github.com/thusvill/LiveWallpaperMacOS) | This is a Opensource Live wallpaper solution for MacOS | thusvill | 604 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [2026-AI-College-Jobs](https://github.com/speedyapply/2026-AI-College-Jobs) | 2026 AI/ML internship &amp; new graduate job list updated daily | speedyapply | 4553 |
+| 1 |  [2026-AI-College-Jobs](https://github.com/speedyapply/2026-AI-College-Jobs) | 2026 AI/ML internship &amp; new graduate job list updated daily | speedyapply | 4556 |
 | 2 |  [cobol-programming-course](https://github.com/mainframe-projects/cobol-programming-course) | Training materials and labs for a &#34;Getting Started&#34; level course on COBOL | mainframe-projects | 1 |
 | 3 |  [Mainframe](https://github.com/KUMARITCHANNEL/Mainframe) | I will sharing all the mainframe related information it can be on COBOL, JCL, DB2 , CICS, VSAM, TESTING,.... | KUMARITCHANNEL | 72 |
 | 4 |  [beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) | This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐ | rzashakeri | 12123 |
-| 5 |  [open-source-alternatives](https://github.com/btw-so/open-source-alternatives) | List of open-source alternatives to everyday SaaS products. | btw-so | 7936 |
-| 6 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 429989 |
+| 5 |  [open-source-alternatives](https://github.com/btw-so/open-source-alternatives) | List of open-source alternatives to everyday SaaS products. | btw-so | 7937 |
+| 6 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 430108 |
 | 7 |  [Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) |  | yaelwrites | 6005 |
-| 8 |  [filterlists](https://github.com/yokoffing/filterlists) | Collection of blocklists to fill in the gaps | yokoffing | 3078 |
-| 9 |  [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) |  | deepseek-ai | 91718 |
+| 8 |  [filterlists](https://github.com/yokoffing/filterlists) | Collection of blocklists to fill in the gaps | yokoffing | 3079 |
+| 9 |  [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) |  | deepseek-ai | 91727 |
 | 10 |  [awesome-standard-notes](https://github.com/jonhadfield/awesome-standard-notes) | A curated list of tools and information relating to Standard Notes. | jonhadfield | 918 |
-| 11 |  [awesome-privacy](https://github.com/pluja/awesome-privacy) | Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. | pluja | 17708 |
-| 12 |  [awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) | 😎 A curated list of awesome GitHub Profile which updates in real time | saturn-abhishek | 28916 |
-| 13 |  [Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions) | Grokking the Coding Interview: Patterns for Coding Questions Alternative | dipjul | 4045 |
+| 11 |  [awesome-privacy](https://github.com/pluja/awesome-privacy) | Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. | pluja | 17711 |
+| 12 |  [awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) | 😎 A curated list of awesome GitHub Profile which updates in real time | saturn-abhishek | 28922 |
+| 13 |  [Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions) | Grokking the Coding Interview: Patterns for Coding Questions Alternative | dipjul | 4049 |
 | 14 |  [ferrite-core](https://github.com/froyotam/ferrite-core) | Ferrite Core by Froyo Tam | froyotam | 297 |
-| 15 |  [awesome-fonts](https://github.com/brabadu/awesome-fonts) | Curated list of fonts and everything | brabadu | 1880 |
-| 16 |  [awesome-startpage](https://github.com/jnmcfly/awesome-startpage) | This is a carefully compiled list of remarkable projects with the focus on startpages. | jnmcfly | 1183 |
+| 15 |  [awesome-fonts](https://github.com/brabadu/awesome-fonts) | Curated list of fonts and everything | brabadu | 1881 |
+| 16 |  [awesome-startpage](https://github.com/jnmcfly/awesome-startpage) | This is a carefully compiled list of remarkable projects with the focus on startpages. | jnmcfly | 1184 |
 | 17 |  [CPP-STL-Library](https://github.com/aman0046/CPP-STL-Library) |  | aman0046 | 49 |
 | 18 |  [ATS-Friendly-Resume-Tips](https://github.com/aman0046/ATS-Friendly-Resume-Tips) |  | aman0046 | 61 |
 | 19 |  [LastMinuteRevision-CN](https://github.com/aman0046/LastMinuteRevision-CN) | Here is the last minute revision notes of Computer Network | aman0046 | 197 |
 | 20 |  [LastMinuteRevision-DBMS](https://github.com/aman0046/LastMinuteRevision-DBMS) | Here is the last minute revision notes of Database Management System | aman0046 | 275 |
 | 21 |  [LastMinuteRevision-OS](https://github.com/aman0046/LastMinuteRevision-OS) |  | aman0046 | 207 |
 | 22 |  [LastMinuteRevision-SQL](https://github.com/aman0046/LastMinuteRevision-SQL) |  | aman0046 | 74 |
-| 23 |  [KeyCluCask](https://github.com/Anze/KeyCluCask) | Simple and handy overview of applications shortcuts | Anze | 1854 |
-| 24 |  [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) | Community guide to securing and improving privacy on macOS. | drduh | 22435 |
-| 25 |  [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps | serhii-londar | 47015 |
+| 23 |  [KeyCluCask](https://github.com/Anze/KeyCluCask) | Simple and handy overview of applications shortcuts | Anze | 1855 |
+| 24 |  [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) | Community guide to securing and improving privacy on macOS. | drduh | 22437 |
+| 25 |  [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps | serhii-londar | 47031 |
 | 26 |  [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) |  A curated list of awesome applications, softwares, tools and shiny things for macOS. | iCHAIT | 17520 |
-| 27 |  [javascript-questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations :sparkles: | lydiahallie | 65230 |
+| 27 |  [javascript-questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations :sparkles: | lydiahallie | 65231 |
 | 28 |  [exercism](https://github.com/exercism/exercism) | Crowd-sourced code mentorship. Practice having thoughtful conversations about code. | exercism | 7537 |
-| 29 |  [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) | Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS | ONLYOFFICE | 4345 |
-| 30 |  [LastMinuteRevision-OOP](https://github.com/aman0046/LastMinuteRevision-OOP) | Here is the last minute revision notes of Object Oriented Programming | aman0046 | 547 |
+| 29 |  [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) | Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS | ONLYOFFICE | 4347 |
+| 30 |  [LastMinuteRevision-OOP](https://github.com/aman0046/LastMinuteRevision-OOP) | Here is the last minute revision notes of Object Oriented Programming | aman0046 | 548 |
 | 31 |  [Professor-Synapse](https://github.com/ProfSynapse/Professor-Synapse) |  | ProfSynapse | 3216 |
-| 32 |  [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) | A curated list of awesome places to learn and/or practice algorithms. | tayllan | 24561 |
+| 32 |  [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) | A curated list of awesome places to learn and/or practice algorithms. | tayllan | 24566 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## PHP
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) | 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README | DenverCoder1 | 6448 |
-| 2 |  [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) | It counts how many times your GitHub profile has been viewed. Free cloud micro-service. | antonkomarev | 4769 |
-| 3 |  [Keka](https://github.com/aonez/Keka) | The macOS &amp; iOS file archiver | aonez | 6277 |
-| 4 |  [wallabag](https://github.com/wallabag/wallabag) | wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. | wallabag | 12365 |
+| 1 |  [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) | 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README | DenverCoder1 | 6450 |
+| 2 |  [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) | It counts how many times your GitHub profile has been viewed. Free cloud micro-service. | antonkomarev | 4768 |
+| 3 |  [Keka](https://github.com/aonez/Keka) | The macOS &amp; iOS file archiver | aonez | 6280 |
+| 4 |  [wallabag](https://github.com/wallabag/wallabag) | wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. | wallabag | 12368 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -422,40 +415,40 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [DeepTutor](https://github.com/HKUDS/DeepTutor) | &#34;DeepTutor: AI-Powered Personalized Learning Assistant&#34; | HKUDS | 8863 |
-| 2 |  [khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. | khoj-ai | 32190 |
-| 3 |  [banana-slides](https://github.com/Anionex/banana-slides) | 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&amp;智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native PPT generator based on nano banana pro🍌 | Anionex | 9749 |
-| 4 |  [copyparty](https://github.com/9001/copyparty) | Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file | 9001 | 41021 |
-| 5 |  [agent-lightning](https://github.com/microsoft/agent-lightning) | The absolute trainer to light up AI agents. | microsoft | 10322 |
-| 6 |  [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) | Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme | AsyncFuncAI | 13655 |
-| 7 |  [gitingest](https://github.com/coderamp-labs/gitingest) | Replace &#39;hub&#39; with &#39;ingest&#39; in any GitHub URL to get a prompt-friendly extract of a codebase | coderamp-labs | 13639 |
-| 8 |  [gpt-oss](https://github.com/openai/gpt-oss) | gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI | openai | 19596 |
-| 9 |  [Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) | Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud. | QwenLM | 14899 |
-| 10 |  [markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | microsoft | 85308 |
-| 11 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 332405 |
-| 12 |  [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) |  | deepseek-ai | 101135 |
-| 13 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 380589 |
-| 14 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 391371 |
-| 15 |  [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) | Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds. | mohamed-chs | 804 |
-| 16 |  [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | Significant-Gravitas | 181159 |
+| 1 |  [DeepTutor](https://github.com/HKUDS/DeepTutor) | &#34;DeepTutor: AI-Powered Personalized Learning Assistant&#34; | HKUDS | 8914 |
+| 2 |  [khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. | khoj-ai | 32191 |
+| 3 |  [banana-slides](https://github.com/Anionex/banana-slides) | 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&amp;智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native PPT generator based on nano banana pro🍌 | Anionex | 9788 |
+| 4 |  [copyparty](https://github.com/9001/copyparty) | Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file | 9001 | 41041 |
+| 5 |  [agent-lightning](https://github.com/microsoft/agent-lightning) | The absolute trainer to light up AI agents. | microsoft | 10329 |
+| 6 |  [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) | Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme | AsyncFuncAI | 13661 |
+| 7 |  [gitingest](https://github.com/coderamp-labs/gitingest) | Replace &#39;hub&#39; with &#39;ingest&#39; in any GitHub URL to get a prompt-friendly extract of a codebase | coderamp-labs | 13654 |
+| 8 |  [gpt-oss](https://github.com/openai/gpt-oss) | gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI | openai | 19598 |
+| 9 |  [Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) | Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud. | QwenLM | 14902 |
+| 10 |  [markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | microsoft | 85326 |
+| 11 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 332448 |
+| 12 |  [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) |  | deepseek-ai | 101142 |
+| 13 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 380612 |
+| 14 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 391423 |
+| 15 |  [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) | Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds. | mohamed-chs | 805 |
+| 16 |  [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | Significant-Gravitas | 181170 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Rust
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. | Universal-Debloater-Alliance | 5584 |
-| 2 |  [codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal | openai | 56340 |
-| 3 |  [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. | spacedriveapp | 36643 |
-| 4 |  [espanso](https://github.com/espanso/espanso) | A Privacy-first, Cross-platform Text Expander written in Rust | espanso | 12848 |
-| 5 |  [universal-android-debloater](https://github.com/0x192/universal-android-debloater) | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. | 0x192 | 18625 |
+| 1 |  [universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. | Universal-Debloater-Alliance | 5589 |
+| 2 |  [codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal | openai | 56378 |
+| 3 |  [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. | spacedriveapp | 36652 |
+| 4 |  [espanso](https://github.com/espanso/espanso) | A Privacy-first, Cross-platform Text Expander written in Rust | espanso | 12852 |
+| 5 |  [universal-android-debloater](https://github.com/0x192/universal-android-debloater) | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. | 0x192 | 18627 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## SCSS
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [markdown-badges](https://github.com/Ileriayo/markdown-badges) | Badges for your personal developer branding, profile, and projects. | Ileriayo | 16084 |
+| 1 |  [markdown-badges](https://github.com/Ileriayo/markdown-badges) | Badges for your personal developer branding, profile, and projects. | Ileriayo | 16088 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -470,60 +463,60 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [android-security-awesome](https://github.com/ashishb/android-security-awesome) | A collection of android security related resources | ashishb | 9112 |
-| 2 |  [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | nvm-sh | 90878 |
-| 3 |  [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | Fish-like autosuggestions for zsh | zsh-users | 34601 |
-| 4 |  [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) | Fish shell like syntax highlighting for Zsh. | zsh-users | 22122 |
+| 2 |  [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | nvm-sh | 90880 |
+| 3 |  [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | Fish-like autosuggestions for zsh | zsh-users | 34607 |
+| 4 |  [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) | Fish shell like syntax highlighting for Zsh. | zsh-users | 22123 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Smali
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [gamehub-lite](https://github.com/Producdevity/gamehub-lite) | GameHub Lite is a community-maintained modified version of GameHub for education purposes | Producdevity | 824 |
+| 1 |  [gamehub-lite](https://github.com/Producdevity/gamehub-lite) | GameHub Lite is a community-maintained modified version of GameHub for education purposes | Producdevity | 826 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Swift
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Atoll](https://github.com/Ebullioscopic/Atoll) | Dynamic Island for macOS | Ebullioscopic | 688 |
+| 1 |  [Atoll](https://github.com/Ebullioscopic/Atoll) | Dynamic Island for macOS | Ebullioscopic | 691 |
 | 2 |  [Peninsula](https://github.com/celve/Peninsula) | Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage. | celve | 448 |
-| 3 |  [Pearcleaner](https://github.com/alienator88/Pearcleaner) | A free, source-available and fair-code licensed mac app cleaner | alienator88 | 10809 |
+| 3 |  [Pearcleaner](https://github.com/alienator88/Pearcleaner) | A free, source-available and fair-code licensed mac app cleaner | alienator88 | 10818 |
 | 4 |  [wallper-app](https://github.com/alxndlk/wallper-app) | Live 4K wallpapers for macOS with multi-screen support, dynamic filters, and smart licensing. Powered by SwiftUI, AWS Lambda &amp; S3. | alxndlk | 290 |
-| 5 |  [airsync-mac](https://github.com/sameerasw/airsync-mac) | AirSync macOS - Bring the forbidden continuity to Android | sameerasw | 558 |
+| 5 |  [airsync-mac](https://github.com/sameerasw/airsync-mac) | AirSync macOS - Bring the forbidden continuity to Android | sameerasw | 559 |
 | 6 |  [QuickDrop](https://github.com/leonboe1/QuickDrop) | An enhanced version of NearDrop, a Google Quick Share app for macOS 📲 | leonboe1 | 138 |
-| 7 |  [boring.notch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶 | TheBoredTeam | 6489 |
-| 8 |  [mew-notch](https://github.com/monuk7735/mew-notch) | Make the Notches on newer Macs Useful! | monuk7735 | 452 |
+| 7 |  [boring.notch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶 | TheBoredTeam | 6495 |
+| 8 |  [mew-notch](https://github.com/monuk7735/mew-notch) | Make the Notches on newer Macs Useful! | monuk7735 | 453 |
 | 9 |  [vimac](https://github.com/nchudleigh/vimac) | Productive macOS keyboard-driven navigation | nchudleigh | 3646 |
 | 10 |  [Pine](https://github.com/lukakerr/Pine) | A modern, native macOS markdown editor | lukakerr | 3460 |
-| 11 |  [awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) | A curated collection of open-source macOS applications built with Swift | jaywcjlove | 1035 |
-| 12 |  [Whisky](https://github.com/Whisky-App/Whisky) | A modern Wine wrapper for macOS built with SwiftUI | Whisky-App | 14852 |
-| 13 |  [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) | Black Friday Deals for macOS / iOS Software &amp; Books | mRs- | 2296 |
-| 14 |  [Easydict](https://github.com/tisfeng/Easydict) | 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. | tisfeng | 11834 |
+| 11 |  [awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) | A curated collection of open-source macOS applications built with Swift | jaywcjlove | 1036 |
+| 12 |  [Whisky](https://github.com/Whisky-App/Whisky) | A modern Wine wrapper for macOS built with SwiftUI | Whisky-App | 14854 |
+| 13 |  [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) | Black Friday Deals for macOS / iOS Software &amp; Books | mRs- | 2297 |
+| 14 |  [Easydict](https://github.com/tisfeng/Easydict) | 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. | tisfeng | 11839 |
 | 15 |  [DeskPad](https://github.com/Stengo/DeskPad) | A virtual monitor for screen sharing | Stengo | 7554 |
-| 16 |  [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | Windows alt-tab on macOS | lwouis | 14304 |
+| 16 |  [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | Windows alt-tab on macOS | lwouis | 14305 |
 | 17 |  [Clop](https://github.com/FuzzyIdeas/Clop) | Clipboard optimizer for macOS | FuzzyIdeas | 1396 |
 | 18 |  [SwiftBar](https://github.com/swiftbar/SwiftBar) | Powerful macOS menu bar customization tool | swiftbar | 3665 |
-| 19 |  [hidden](https://github.com/dwarvesf/hidden) | An ultra-light MacOS utility that helps hide menu bar icons | dwarvesf | 13182 |
-| 20 |  [Loop](https://github.com/MrKai77/Loop) | Window management made elegant. | MrKai77 | 9901 |
+| 19 |  [hidden](https://github.com/dwarvesf/hidden) | An ultra-light MacOS utility that helps hide menu bar icons | dwarvesf | 13187 |
+| 20 |  [Loop](https://github.com/MrKai77/Loop) | Window management made elegant. | MrKai77 | 9905 |
 | 21 |  [TRex](https://github.com/amebalabs/TRex) | Copy any text on your screen, stop retyping. | amebalabs | 1588 |
 | 22 |  [Viz](https://github.com/alienator88/Viz) | Capture text/QR Codes/Barcodes/Colors from screen snippets | alienator88 | 482 |
-| 23 |  [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) | ⚙️ All-in-One menu bar app, hide 💻MacBook Pro&#39;s notch, dark mode, AirPods, Shortcuts | jacklandrin | 5407 |
-| 24 |  [Rectangle](https://github.com/rxhanson/Rectangle) | Move and resize windows on macOS with keyboard shortcuts and snap areas | rxhanson | 28221 |
-| 25 |  [Latest](https://github.com/mangerlahn/Latest) | A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. | mangerlahn | 4348 |
+| 23 |  [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) | ⚙️ All-in-One menu bar app, hide 💻MacBook Pro&#39;s notch, dark mode, AirPods, Shortcuts | jacklandrin | 5409 |
+| 24 |  [Rectangle](https://github.com/rxhanson/Rectangle) | Move and resize windows on macOS with keyboard shortcuts and snap areas | rxhanson | 28226 |
+| 25 |  [Latest](https://github.com/mangerlahn/Latest) | A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. | mangerlahn | 4350 |
 | 26 |  [Gray](https://github.com/zenangst/Gray) | :first_quarter_moon: Tailor your macOS Mojave experience | zenangst | 1424 |
-| 27 |  [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS | p0deje | 18271 |
-| 28 |  [stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | exelban | 35821 |
-| 29 |  [linearmouse](https://github.com/linearmouse/linearmouse) | The mouse and trackpad utility for Mac. | linearmouse | 5392 |
-| 30 |  [TomatoBar](https://github.com/ivoronin/TomatoBar) | 🍅 World&#39;s neatest Pomodoro timer for macOS menu bar | ivoronin | 3083 |
+| 27 |  [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS | p0deje | 18281 |
+| 28 |  [stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | exelban | 35836 |
+| 29 |  [linearmouse](https://github.com/linearmouse/linearmouse) | The mouse and trackpad utility for Mac. | linearmouse | 5394 |
+| 30 |  [TomatoBar](https://github.com/ivoronin/TomatoBar) | 🍅 World&#39;s neatest Pomodoro timer for macOS menu bar | ivoronin | 3086 |
 | 31 |  [Soduto](https://github.com/sannidhyaroy/Soduto) | Soduto is a KDE Connect compatible client for macOS. It allows better integration between your phones, desktops and tablets. | sannidhyaroy | 195 |
-| 32 |  [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | buresdv | 4013 |
-| 33 |  [DockDoor](https://github.com/ejbills/DockDoor) | Window peeking, alt-tab and other enhancements for macOS | ejbills | 3641 |
+| 32 |  [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | buresdv | 4015 |
+| 33 |  [DockDoor](https://github.com/ejbills/DockDoor) | Window peeking, alt-tab and other enhancements for macOS | ejbills | 3646 |
 | 34 |  [VirusTotal-macOS](https://github.com/Jerry23011/VirusTotal-macOS) | An elegant VirusTotal client built with SwiftUI | Jerry23011 | 152 |
 | 35 |  [chai](https://github.com/lvillani/chai) | Don&#39;t let your Mac fall asleep, like a sir | lvillani | 113 |
-| 36 |  [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) | A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具 | lihaoyun6 | 7840 |
-| 37 |  [NearDrop](https://github.com/grishka/NearDrop) | An unofficial Google Nearby Share/Quick Share app for macOS | grishka | 5853 |
-| 38 |  [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | jordanbaird | 25397 |
+| 36 |  [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) | A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具 | lihaoyun6 | 7843 |
+| 37 |  [NearDrop](https://github.com/grishka/NearDrop) | An unofficial Google Nearby Share/Quick Share app for macOS | grishka | 5856 |
+| 38 |  [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | jordanbaird | 25409 |
 | 39 |  [AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) | Menubar Tool to set Charge Limits and Prolong Battery Lifespan | AppHouseKitchen | 8902 |
 
 **[⬆ Back to Index](#-contents)**
@@ -531,48 +524,48 @@
 ## Text
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dns-blocklists](https://github.com/hagezi/dns-blocklists) | DNS-Blocklists: For a better internet - keep the internet clean! | hagezi | 19006 |
+| 1 |  [dns-blocklists](https://github.com/hagezi/dns-blocklists) | DNS-Blocklists: For a better internet - keep the internet clean! | hagezi | 19019 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [clawdbot](https://github.com/clawdbot/clawdbot) | Your own personal AI assistant. Any OS. Any Platform. | clawdbot | 4676 |
-| 2 |  [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | mermaid-js | 85388 |
-| 3 |  [super-productivity](https://github.com/super-productivity/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. | super-productivity | 17012 |
-| 4 |  [dragon-store](https://github.com/jpdoshi/dragon-store) | Dragon Store is your gateway to transparent, libre and free open-source apps. | jpdoshi | 309 |
+| 1 |  [clawdbot](https://github.com/clawdbot/clawdbot) | Your own personal AI assistant. Any OS. Any Platform. The lobser way. 🦞 | clawdbot | 4768 |
+| 2 |  [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | mermaid-js | 85393 |
+| 3 |  [super-productivity](https://github.com/super-productivity/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. | super-productivity | 17016 |
+| 4 |  [dragon-store](https://github.com/jpdoshi/dragon-store) | Dragon Store is your gateway to transparent, libre and free open-source apps. | jpdoshi | 310 |
 | 5 |  [LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) | Show your dynamically generated LeetCode stats on your GitHub profile or your website! | JacobLinCool | 891 |
-| 6 |  [ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ | C4illin | 15023 |
-| 7 |  [Cap](https://github.com/CapSoftware/Cap) | Open source Loom alternative. Beautiful, shareable screen recordings. | CapSoftware | 16484 |
-| 8 |  [winboat](https://github.com/TibixDev/winboat) | Run Windows apps on 🐧 Linux with ✨ seamless integration | TibixDev | 17932 |
-| 9 |  [codex-action](https://github.com/openai/codex-action) |  | openai | 756 |
+| 6 |  [ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ | C4illin | 15035 |
+| 7 |  [Cap](https://github.com/CapSoftware/Cap) | Open source Loom alternative. Beautiful, shareable screen recordings. | CapSoftware | 16493 |
+| 8 |  [winboat](https://github.com/TibixDev/winboat) | Run Windows apps on 🐧 Linux with ✨ seamless integration | TibixDev | 17955 |
+| 9 |  [codex-action](https://github.com/openai/codex-action) |  | openai | 758 |
 | 10 |  [agenttrafficcontrol](https://github.com/gkamradt/agenttrafficcontrol) |  | gkamradt | 254 |
-| 11 |  [Nora](https://github.com/nonbili/Nora) | Facebook, Instagram, Reddit, Threads and X in a single app. No ads. | nonbili | 489 |
-| 12 |  [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 169491 |
-| 13 |  [pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) | An app that brings language models directly to your phone. | a-ghorbani | 5480 |
-| 14 |  [pluely](https://github.com/iamsrikanthnani/pluely) | The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in video calls, screen shares, and recordings. | iamsrikanthnani | 1428 |
-| 15 |  [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) | This GitHub Action creates a GitHub contribution calendar on a 3D profile image. | yoshi389111 | 1505 |
+| 11 |  [Nora](https://github.com/nonbili/Nora) | Facebook, Instagram, Reddit, Threads and X in a single app. No ads. | nonbili | 490 |
+| 12 |  [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 169572 |
+| 13 |  [pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) | An app that brings language models directly to your phone. | a-ghorbani | 5487 |
+| 14 |  [pluely](https://github.com/iamsrikanthnani/pluely) | The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in video calls, screen shares, and recordings. | iamsrikanthnani | 1432 |
+| 15 |  [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) | This GitHub Action creates a GitHub contribution calendar on a 3D profile image. | yoshi389111 | 1506 |
 | 16 |  [Leetcode-Badge-Showcase](https://github.com/KevzPeter/Leetcode-Badge-Showcase) | 📛 API to embed your Leetcode badges anywhere 🤩 | KevzPeter | 65 |
-| 17 |  [gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | google-gemini | 91193 |
-| 18 |  [lossless-cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing | mifi | 37227 |
+| 17 |  [gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | google-gemini | 91305 |
+| 18 |  [lossless-cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing | mifi | 37239 |
 | 19 |  [deep-research](https://github.com/dzhng/deep-research) | An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic. | dzhng | 18344 |
 | 20 |  [XNOHub.com](https://github.com/dalindev/XNOHub.com) | 🌍 Real-time 3D visualization of Nano cryptocurrency networks - Watch live transactions fly across an interactive globe with 🚀 SpaceX-inspired animations | dalindev | 613 |
-| 21 |  [aya](https://github.com/liriliri/aya) | Android ADB desktop app | liriliri | 4554 |
+| 21 |  [aya](https://github.com/liriliri/aya) | Android ADB desktop app | liriliri | 4555 |
 | 22 |  [quickpic](https://github.com/t3dotgg/quickpic) | Turn SVGs into high resolution PNGs in 2 clicks | t3dotgg | 1259 |
 | 23 |  [kompad](https://github.com/hudy9x/kompad) | Open source note-taking app for geeks that supports desktop, web, mobile web versions | hudy9x | 569 |
-| 24 |  [omnivore](https://github.com/omnivore-app/omnivore) | Omnivore is a complete, open source read-it-later solution for people who like reading. | omnivore-app | 15783 |
-| 25 |  [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams | excalidraw | 114574 |
-| 26 |  [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) | A tool to generate your GitHub summary card for profile README | vn7n24fzkq | 3275 |
-| 27 |  [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) | 🏆 Add dynamically generated GitHub Stat Trophies  on your readme | ryo-ma | 6362 |
-| 28 |  [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | A dynamically generated activity graph to show your GitHub activities of last 31 days. | Ashutosh00710 | 2141 |
+| 24 |  [omnivore](https://github.com/omnivore-app/omnivore) | Omnivore is a complete, open source read-it-later solution for people who like reading. | omnivore-app | 15785 |
+| 25 |  [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams | excalidraw | 114597 |
+| 26 |  [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) | A tool to generate your GitHub summary card for profile README | vn7n24fzkq | 3276 |
+| 27 |  [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) | 🏆 Add dynamically generated GitHub Stat Trophies  on your readme | ryo-ma | 6364 |
+| 28 |  [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | A dynamically generated activity graph to show your GitHub activities of last 31 days. | Ashutosh00710 | 2143 |
 | 29 |  [snk](https://github.com/Sutil/snk) | 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif | Sutil | 34 |
-| 30 |  [snk](https://github.com/Platane/snk) | 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif | Platane | 5515 |
+| 30 |  [snk](https://github.com/Platane/snk) | 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif | Platane | 5516 |
 | 31 |  [gruvbox-material-vscode](https://github.com/sainnhe/gruvbox-material-vscode) | Gruvbox Material for Visual Studio Code | sainnhe | 256 |
-| 32 |  [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) | Export and Share your ChatGPT conversation history | pionxzh | 2116 |
-| 33 |  [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | Curated coding interview preparation materials for busy software engineers | yangshun | 136803 |
-| 34 |  [jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. | janhq | 40075 |
-| 35 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | kamranahmedse | 347357 |
+| 32 |  [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) | Export and Share your ChatGPT conversation history | pionxzh | 2117 |
+| 33 |  [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | Curated coding interview preparation materials for busy software engineers | yangshun | 136809 |
+| 34 |  [jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. | janhq | 40079 |
+| 35 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | kamranahmedse | 347389 |
 | 36 |  [exportify](https://github.com/watsonbox/exportify) | Export/Backup Spotify playlists using the Web API | watsonbox | 3920 |
 
 **[⬆ Back to Index](#-contents)**
@@ -580,8 +573,8 @@
 ## Vim Script
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [gruvbox-material](https://github.com/sainnhe/gruvbox-material) | Gruvbox with Material Palette | sainnhe | 2454 |
-| 2 |  [gruvbox](https://github.com/morhetz/gruvbox) | Retro groove color scheme for Vim | morhetz | 15104 |
+| 1 |  [gruvbox-material](https://github.com/sainnhe/gruvbox-material) | Gruvbox with Material Palette | sainnhe | 2455 |
+| 2 |  [gruvbox](https://github.com/morhetz/gruvbox) | Retro groove color scheme for Vim | morhetz | 15109 |
 
 **[⬆ Back to Index](#-contents)**
 
